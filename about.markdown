@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I graduated in May 2022 with a BS in Physics and Specialization in Optics from Stony Brook University. I was accepted to the Physics PhD program at CU Boulder and deferred to accept the Swedish Fulbright Research Award for the 2022-23 academic year. I am currently working in a research group at the Royal Institute of Technology in Stockholm, Sweden.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am interested in Atomic/Molecular/Optical physics, particularly spectroscopy, microscopy, spatial light modulators, and holography.
