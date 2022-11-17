@@ -4,5 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<embed src="http://maxnfrankel.github.io/pages/CV/CV_MaxFrankel" width="500" height="375" 
- type="application/pdf">
+<embed src="https://github.com/maxnfrankel/maxnfrankel.github.io/blob/master/pages/CV/CV_MaxFrankel.pdf" width="60%" height="375" type="application/pdf">
