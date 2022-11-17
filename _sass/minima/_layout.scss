@@ -3,7 +3,7 @@
  */
 .site-header {
   background-color: $grey-color-dark;
-  font-family:'Lucida Sans'
+  color: #FFF;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -37,7 +37,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: #FFF;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
