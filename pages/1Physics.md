@@ -4,7 +4,13 @@ title: Physics
 permalink: /physics/
 ---
 
-## Stony Brook University
+## Fulbright Research: SciLifeLab & Royal Institute of Technology
+
+# Holography
+
+# Diffraction Simulation
+
+## Undergraduate Research: Stony Brook University
 
 # Physics 445: Senior Lab Reports 
 
