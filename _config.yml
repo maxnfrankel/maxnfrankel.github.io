@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "maxnfrankel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@MaxFrankel16"
 github_username:  "maxnfrankel"
+google_site_verification: google-site-verification=jPWqPmSlasv06qQOXoBRDmKgYCMYZa38RE-Z66rsakY # your google-site-verification ID (Google Search Console) 
 
 # Build settings
 theme: minima
