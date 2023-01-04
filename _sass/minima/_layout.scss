@@ -263,3 +263,18 @@
   margin-right: auto;
 }
 
+/**
+* Links
+**/
+.link {
+  color: $text-color;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover {
+    color: lighten($text-color, 15%);
+    text-decoration: none;
+  }
+
+}
