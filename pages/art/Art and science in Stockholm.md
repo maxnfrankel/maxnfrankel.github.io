@@ -30,3 +30,5 @@ Early in December, I reached out to the SciLifeLab external relations team again
 The external relations office at SciLifeLab was excited to support the program and has been helping me recruit scientists at the SciLifeLab. We have a news article, application form, and flyers, and we’re looking to select 10 researchers by January 9th. The art professors have written up a program description for KKH students and are selecting 10 artists, 5 post-masters and 5 program students, through their own application process by early January. On December 14th, I gave a presentation to a post-master’s course at the KKH, taught by Professors Broms and Larsson, to generate interest and explain the program, and on December 15th, I announced the program to researchers at SciLifeLab’s WinterFest.
 
 ![Flyer for program](/pages/images/ArtAndScienceflyer.pdf){: .center style="float: right" width="100%" }
+
+Flyer created by Sophia Marret.
