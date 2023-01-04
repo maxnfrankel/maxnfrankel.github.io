@@ -17,4 +17,4 @@ I graduated in May 2022 with a BS in Physics and Specialization in Optics from S
 
 I am interested in everything Atomic/Molecular/Optical physics, particularly spectroscopy, microscopy, spatial light modulators, and holography.
 
-![Man with cigarette](/pages/images/Sleep_At_Desk.png){: .center style="float: center" width="70%" }
+![Sleep at desk](/pages/images/Sleep_At_Desk.png){: .center style="float: center" width="70%" }

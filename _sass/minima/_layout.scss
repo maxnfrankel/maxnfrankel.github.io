@@ -272,8 +272,11 @@
   font-weight: bold;
   text-decoration: none;
 
+  &:visited {
+    color: $text-color;
+  }
   &:hover {
-    color: lighten($text-color, 15%);
+    color: lighten($text-color, 25%);
     text-decoration: none;
   }
 
