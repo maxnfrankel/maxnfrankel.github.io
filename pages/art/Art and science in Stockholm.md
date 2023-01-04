@@ -23,7 +23,7 @@ In my Fulbright application, as my community engagement project, I proposed a co
 
 Professor Fürst put me in contact with four other professors at KKH: Åsa Andersson Broms, Björn Larsson, Martin Christensen, and Rut Karin Zettergren. I met with them at KKH in October, where they gave me a tour of the art studios and we discussed the project. With the permission of Dr. Testa, Professors Broms, Zettergren, and Larsson toured my lab in November.
 
-![KKH Professors visit Testalab](/pages/images/Sleep_At_Desk.png){: .center style="float: right" width="40%" }
+![KKH Professors visit Testalab](/pages/images/ProfsVisit.HEIC){: .center style="float: right" width="40%" }
 
 Early in December, I reached out to the SciLifeLab external relations team again and proposed a program connecting researchers at SciLifeLab and artists at the KKH. Inspired in part by the exhibition The Life of a Neuron at ARTECHOUSE in New York City, seen a week before I departed for Stockholm, as well as the exhibition Eternal Life at Liljevalchs, which I saw in October, I wanted to create a collaboration between artists and scientists on a scale larger than just my personal research. With approximately 700 researchers working at the Solna campus of SciLifeLab, it seemed like the perfect place for such a project to occur.
 
