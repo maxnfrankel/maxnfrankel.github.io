@@ -13,9 +13,9 @@ Here are some of the artworks I've made.
     <img src="/pages/images/Personal%art/ZurichWatercolor.jpg" alt="ZurichWatercolor" style="width:100%">
   </div>
   <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="/pages/images/Personal%art/BaselCastle.jpg" alt="BaselCastle" style="width:100%">
   </div>
   <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="/pages/images/Personal%art/stevePortrait.jpg" alt="StevePortrait" style="width:100%">
   </div>
 </div>
