@@ -12,9 +12,15 @@ permalink: /physics/
 
 ## Undergraduate Research: Stony Brook University
 
-# Physics 445: Senior Lab Reports 
+# Honors thesis
 
-Here are two of the reports completed during my senior lab class at Stony Brook University. I became particularly interested in the optical pumping experiment as I noticed a strange deformation of the microwave transition lineshape at high Rb density, and worked extensively on this experiment outside of class to try and figure out the cause.
+I became particularly interested in the optical pumping experiment of my senior laboratory class. The experiment became the focus of my honors thesis.
+
+<object data="{{ site.url }}{{ site.baseurl }}/Physics/PHY445_Optical_Pumping_Max.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+I noticed a strange deformation of the microwave transition lineshape at high Rb density, and worked extensively to identify the cause. I am still trying to figure this one out.
+
+# NMR senior lab
 
 # Ultracold Quantum Systems Group
 
