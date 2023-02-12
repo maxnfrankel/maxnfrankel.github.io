@@ -5,17 +5,15 @@ permalink: /art/Art_and_science_in_Stockholm
 exclude: true
 ---
 
-I grew surrounded by family involved in the arts. My mother is a painter and taught art classes in NYC for many years, my father is an architect, and my grandmother was a sculptor. I attended the Fiorello H. LaGuardia High School of Music & Art and Performing Arts as a visual art student, where I spent four years taking several hours of art classes a day alongside my regular classes.
-
 ### Scientific research through an artist’s lens: A collaboration between Stockholm's SciLifeLab and the Royal Institute of Art
 
 [News article on SciLifeLab webiste](https://www.scilifelab.se/news/scientific-research-through-an-artists-lens/)
 
-This program is meant to be an inspirational exchange between 10 artists at KKH and 10 researchers at SciLifeLab. Half of the artists will be post-master’s students who are already practicing artists, and half will be program students at KKH. This program will connect the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
+This program is meant to be an inspirational exchange between 14 artists at KKH and 30 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
 
-Researchers and artists will participate in three events. The first event is scheduled for February 8th and is meant to introduce the scientists and artists, with quick pitch-presentations by everyone on their work and interests. The second event is a tour of the researchers’ workspaces, guided by each researcher and given to a small group of artists. The lab tours are scheduled for the week of February 13th but can be shifted to fit the schedule of the researcher. If there is mutual interest between a scientist and artist after the lab tours, a collaborative project can be set up on their own terms. The resulting work will be featured in an exhibition at SciLifeLab at the end of April, which is the last event.
+Researchers and artists participate in three events. The first event occurred on February 6th and was meant to introduce the scientists and artists, with quick pitch-presentations by everyone on their work and interests. The second event was a tour of the researchers’ workspaces, guided by each researcher and given to a small group of artists. If there is mutual interest between a scientist and artist after the lab tours, a collaborative project can be set up on their own terms. The resulting work will be featured in an exhibition at SciLifeLab at the end of April, which is the last event.
 
-This program will be a unique opportunity for outreach at the SciLifeLab. It creates a dialog with artists, lets scientists see how their work and ideas can be visualized, and may lead to increased visibility of their research. For the artists, this program will allow collaboration with leading scientists, giving them the chance to gain inspiring insight at the forefront of research in the life sciences. This program is intended as a pilot, with the goal of being continued in the future, beyond this academic semester, creating compelling and bonding connections between the artistic and scientific communities in Stockholm.
+This program is be a unique opportunity for outreach at the SciLifeLab. It creates a dialog with artists, lets scientists see how their work and ideas can be visualized, and may lead to increased visibility of their research. For the artists, this program will allow collaboration with leading scientists, giving them the chance to gain inspiring insight at the forefront of research in the life sciences. This program is intended as a pilot, with the goal of being continued in the future, beyond this academic semester, creating compelling and bonding connections between the artistic and scientific communities in Stockholm.
 
 ## Development of the program
 
