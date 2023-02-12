@@ -6,17 +6,13 @@ permalink: /physics/
 
 ## Fulbright Research: SciLifeLab & Royal Institute of Technology
 
-# Holography
-
-# Diffraction Simulation
-
 ## Undergraduate Research: Stony Brook University
 
 # Honors thesis
 
 I became particularly interested in the optical pumping experiment of my senior laboratory class. The experiment became the focus of my honors thesis.
 
-<object data="{{ site.url }}{{ site.baseurl }}/Physics/PHY445_Optical_Pumping_Max.pdf" width="1000" height="1000" type='application/pdf'></object>
+[Optical Pumping: Exciting optical and RF transitions simultaneously to perform spectroscopy on the hyperfine splitting of the ground state of Rubidium](../Physics/PHY445_Optical_Pumping_Max.pdf)
 
 I noticed a strange deformation of the microwave transition lineshape at high Rb density, and worked extensively to identify the cause. I am still trying to figure this one out.
 
