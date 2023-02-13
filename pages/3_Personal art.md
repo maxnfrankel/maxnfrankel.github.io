@@ -6,7 +6,7 @@ permalink: /art/My_work
 
 I grew surrounded by family involved in the arts. My mother is a painter and taught art classes in NYC for many years, my father is an architect, and my grandmother was a sculptor. I attended the Fiorello H. LaGuardia High School of Music & Art and Performing Arts as a visual art student, where I spent four years taking several hours of art classes a day alongside my regular classes.
 
-Here is some of my art
+Here are a few of my artworks from over the years
 
 <div class="row">
   <div class="column_30">
@@ -21,6 +21,18 @@ Here is some of my art
 </div>
 
 <div class="row">
+  <div class="column_30">
+    <img src="/pages/images/Personal art/Penelope.jpg" alt="Portrait" style="width:100%">
+  </div>
+  <div class="column_30">
+    <img src="/pages/images/Personal art/seated-woman.jpg" alt="Seated woman" style="width:100%">
+  </div>
+  <div class="column_30">
+    <img src="/pages/images/Personal art/roof-landscape.jpg" alt="Roof" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
   <div class="column_50">
     <img src="/pages/images/Personal art/Subway.jpg" alt="Subway" style="width:100%">
   </div>
@@ -30,14 +42,17 @@ Here is some of my art
 </div>
 
 <div class="row">
-  <div class="column_30">
-    <img src="/pages/images/Personal art/Penelope.jpg" alt="Portrait" style="width:100%">
+  <div class="column_25">
+    <img src="/pages/images/Personal art/standing-woman1.jpg" alt="standing-woman1" style="width:100%">
   </div>
-  <div class="column_30">
-    <img src="/pages/images/Personal art/seated-woman.jpg" alt="Seated woman" style="width:100%">
+  <div class="column_25">
+    <img src="/pages/images/Personal art/standing-woman2.jpg" alt="standing-woman2" style="width:100%">
   </div>
-  <div class="column_30">
-    <img src="/pages/images/Personal art/roof-landscape.jpg" alt="Roof" style="width:100%">
+  <div class="column_25">
+    <img src="/pages/images/Personal art/standing-man1.jpg" alt="standing-man1" style="width:100%">
+  </div>
+  <div class="column_25">
+    <img src="/pages/images/Personal art/standing-man2.jpg" alt="standing-man2" style="width:100%">
   </div>
 </div>
 
@@ -76,7 +91,7 @@ Here is some of my art
     <img src="/pages/images/Personal art/Nude Painting.jpg" alt="Nude painting" style="width:100%">
   </div>
   <div class="column_50">
-    <img src="/pages/images/Personal art/Landscape.jpg" alt="Landscape" style="width:100%">
+    <img src="/pages/images/Personal art/cooper.jpg" alt="cooper" style="width:100%">
   </div>
 </div>
 
