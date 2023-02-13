@@ -14,7 +14,7 @@ Group photo from the introduction event
 
 [News article on SciLifeLab webiste](https://www.scilifelab.se/news/scientific-research-through-an-artists-lens/)
 
-This program was originally meant to be an inspirational exchange between 10 artists at KKH and 10 researchers at SciLifeLab. It has expanded to include 14 artists and 30 researchers. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
+This program was originally meant to be an inspirational exchange between 15 artists at KKH and 32 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
 
 <div class="row">
   <div class="column1">
@@ -48,13 +48,15 @@ KKH Professors visit Testalab
 
 Early in December, I reached out to the SciLifeLab external relations team again and proposed a program connecting researchers at SciLifeLab and artists at the KKH. Inspired in part by the exhibition The Life of a Neuron at ARTECHOUSE in New York City, seen a week before I departed for Stockholm, as well as the exhibition Eternal Life at Liljevalchs, which I saw in October, I wanted to create a collaboration between artists and scientists on a scale larger than just my personal research. With approximately 700 researchers working at the Solna campus of SciLifeLab, it seemed like the perfect place for such a project to occur. The external relations office at SciLifeLab was enthusiastic about supporting the program and has helped me a great deal in organizing the program.
 
-On December 14th, I gave a presentation to a post-master’s course at the KKH, taught by Professors Broms and Larsson. The art professors wrote up a program description for KKH students and selected 15 artists, half post-masters and half program students, through their own application process.
+On December 14th, I gave a presentation to a post-master’s course at the KKH, taught by Professors Broms and Larsson. The art professors wrote up a program description for KKH students and aimed to select 10 artists, half post-masters and half program students, through their own application process.
 
-On my end, I recruited scientists with the help of the external relations office. To generate interest and explain the program, on December 15th, I announced the program to researchers at SciLifeLab’s WinterFest. I also announced the program through email to all SciLifeLab employees and collected applications through a form created by the external relations office.
+On my end, I recruited scientists with the help of the external relations office. With 10 artists, we were hoping to find 10 researchers. To generate interest and explain the program, on December 15th, I announced the program to researchers at SciLifeLab’s WinterFest. I also announced the program through email to all SciLifeLab employees and collected applications through a form created by the external relations office.
 
 ![Flyer for program](/pages/images/Art&Science in Stockholm/ArtAndScienceflyer.png){: .center style="float: center" width="70%" }
 <center>
 Flyer created by Sophia Marret.
 </center>
 
-I scheduled lab tours in the week following the first meeting, and assigned each artist to two labs based off of a ranked selection made by the artist. These tours are currently underway. We plan to have an exhibition of the artwork created in this program on April 25th.
+We ended up getting 32 applicants to the program, much more than we expected. Instead of selecting 10 researchers from the applicants, we decided to restructure the program to accomodate for everyone. Due to the large number of researchers, the art professors decided to accept all the artist applicants as well.
+
+I assigned each artist to two labs based off of a ranked selection made by the artist and scheduled lab tours in the week following the first meeting. These tours are currently underway. We hope that these visits will spark collaborations, and we plan to have an exhibition of the artwork created on April 25th.
