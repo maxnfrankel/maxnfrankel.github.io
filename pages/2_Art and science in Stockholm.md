@@ -15,7 +15,7 @@ Group photo from the introduction event
 
 This program was originally meant to be an inspirational exchange between 10 artists at KKH and 10 researchers at SciLifeLab. The program has expanded to include 14 artists and 30 researchers. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
 
-<div class="row">
+<div class="row1">
   <div class="column1">
     <img src="/pages/images/Art&Science in Stockholm/AxelPresentation.jpg" alt="Artist presentation" style="width:100%">
   </div>
