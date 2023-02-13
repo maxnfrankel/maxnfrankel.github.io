@@ -75,6 +75,18 @@ Here are a few of my artworks from over the years
 </div>
 
 <div class="row">
+  <div class="column_30">
+    <img src="/pages/images/Personal art/coil-vase.jpg" alt="Coil vase" style="width:100%">
+  </div>
+  <div class="column_30">
+    <img src="/pages/images/Personal art/fist-2.jpg" alt="Fist" style="width:100%">
+  </div>
+  <div class="column_30">
+    <img src="/pages/images/Personal art/mallet-rock-candle-collage.jpg" alt="Collage" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
   <div class="column_50">
     <img src="/pages/images/Personal art/block-print.jpg" alt="Block print" style="width:100%">
   </div>
