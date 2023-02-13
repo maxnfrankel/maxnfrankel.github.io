@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Art & science in Stockholm
-permalink: /art/Art_and_science_in_Stockholm
+permalink: /Art_and_science_in_Stockholm
 ---
 
 ### Scientific research through an artist’s lens: A collaboration between Stockholm's SciLifeLab and the Royal Institute of Art
 
 ![Group photo](/pages/images/Art&Science in Stockholm/GroupPhoto.jpg){: .center style="float: none" width="60%" }
+
 <center>
 Group photo from the introduction event
 </center>
@@ -45,13 +46,15 @@ Professor Fürst put me in contact with four other professors at KKH: Åsa Ander
 KKH Professors visit Testalab
 </center>
 
-Early in December, I reached out to the SciLifeLab external relations team again and proposed a program connecting researchers at SciLifeLab and artists at the KKH. Inspired in part by the exhibition The Life of a Neuron at ARTECHOUSE in New York City, seen a week before I departed for Stockholm, as well as the exhibition Eternal Life at Liljevalchs, which I saw in October, I wanted to create a collaboration between artists and scientists on a scale larger than just my personal research. With approximately 700 researchers working at the Solna campus of SciLifeLab, it seemed like the perfect place for such a project to occur.
+Early in December, I reached out to the SciLifeLab external relations team again and proposed a program connecting researchers at SciLifeLab and artists at the KKH. Inspired in part by the exhibition The Life of a Neuron at ARTECHOUSE in New York City, seen a week before I departed for Stockholm, as well as the exhibition Eternal Life at Liljevalchs, which I saw in October, I wanted to create a collaboration between artists and scientists on a scale larger than just my personal research. With approximately 700 researchers working at the Solna campus of SciLifeLab, it seemed like the perfect place for such a project to occur. The external relations office at SciLifeLab was enthusiastic about supporting the program and has helped me a great deal in organizing the program.
 
-The external relations office at SciLifeLab was enthusiastic about supporting the program and has helped me with recruiting scientists and organizing events. They created a news article, application form, and helped create flyers for the researcher selection process. 
+On December 14th, I gave a presentation to a post-master’s course at the KKH, taught by Professors Broms and Larsson. The art professors wrote up a program description for KKH students and selected 15 artists, half post-masters and half program students, through their own application process.
 
-On December 14th, I gave a presentation to a post-master’s course at the KKH, taught by Professors Broms and Larsson, to generate interest and explain the program, and on December 15th, I announced the program to researchers at SciLifeLab’s WinterFest. The art professors wrote up a program description for KKH students and selected 15 artists, half post-masters and half program students, through their own application process. 
+On my end, I recruited scientists with the help of the external relations office. To generate interest and explain the program, on December 15th, I announced the program to researchers at SciLifeLab’s WinterFest. I also announced the program through email to all SciLifeLab employees and collected applications through a form created by the external relations office.
 
 ![Flyer for program](/pages/images/Art&Science in Stockholm/ArtAndScienceflyer.png){: .center style="float: center" width="70%" }
 <center>
 Flyer created by Sophia Marret.
 </center>
+
+I scheduled lab tours in the week following the first meeting, and assigned each artist to two labs based off of a ranked selection made by the artist. These tours are currently underway. We plan to have an exhibition of the artwork created in this program on April 25th.
