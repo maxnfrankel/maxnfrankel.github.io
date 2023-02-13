@@ -58,19 +58,19 @@ Here are a few of my artworks from over the years
 
 <div class="row">
   <div class="column_50">
-    <img src="/pages/images/Personal art/rooftop-view-watercolor.jpg" alt="WilliamsburgBridge" style="width:100%">
+    <img src="/pages/images/Personal art/roof-view-watercolor.jpg" alt="WilliamsburgBridge" style="width:100%">
   </div>
   <div class="column_50">
-    <img src="/pages/images/Personal art/Rooftop.jpg" alt="DUMBO" style="width:100%">
+    <img src="/pages/images/Personal art/Rooftop.JPG" alt="DUMBO" style="width:100%">
   </div>
 </div>
 
 <div class="row">
   <div class="column_50">
-    <img src="/pages/images/Personal art/Architecture.jpg" alt="Architecture" style="width:100%">
+    <img src="/pages/images/Personal art/Architecture.JPG" alt="Architecture" style="width:100%">
   </div>
   <div class="column_50">
-    <img src="/pages/images/Personal art/Architecture_2.jpg" alt="Architecture_2" style="width:100%">
+    <img src="/pages/images/Personal art/Architecture_2.JPG" alt="Architecture_2" style="width:100%">
   </div>
 </div>
 
@@ -100,7 +100,7 @@ Here are a few of my artworks from over the years
     <img src="/pages/images/Personal art/Nude Painting.jpg" alt="Nude painting" style="width:100%">
   </div>
   <div class="column_50">
-    <img src="/pages/images/Personal art/cooper.jpg" alt="cooper" style="width:100%">
+    <img src="/pages/images/Personal art/cooper.JPG" alt="cooper" style="width:100%">
   </div>
 </div>
 
