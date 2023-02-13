@@ -14,7 +14,7 @@ Group photo from the introduction event
 
 [News article on SciLifeLab webiste](https://www.scilifelab.se/news/scientific-research-through-an-artists-lens/)
 
-This program is meant to be an inspirational exchange between 15 artists at KKH and 32 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
+This program is meant to be an inspirational exchange between 16 artists at KKH and 32 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
 
 <div class="row">
   <div class="column1">
