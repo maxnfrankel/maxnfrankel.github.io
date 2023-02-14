@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physics
-permalink: /physics/
+permalink: /physics
 ---
 
 ## Fulbright Research: SciLifeLab & Royal Institute of Technology
