@@ -112,7 +112,7 @@ Here are a few of my artworks from over the years
     <img src="/pages/images/Personal art/Nude Painting.jpg" alt="Nude painting" style="width:100%">
   </div>
   <div class="column_50">
-    <img src="/pages/images/Personal art/cooper.JPG" alt="cooper" style="width:100%">
+    <img src="/pages/images/Personal art/Cooper.JPG" alt="Cooper" style="width:100%">
   </div>
 </div>
 
