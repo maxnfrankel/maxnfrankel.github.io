@@ -67,7 +67,7 @@ Here are a few of my artworks from over the years
 
 <div class="row">
   <div class="column_50">
-    <img src="/pages/images/Personal art/watercolor-seated-man.jpg" alt="Architecture" style="width:100%">
+    <img src="/pages/images/Personal art/watercolor-seated-man.jpg" alt="watercolor-seated-man" style="width:100%">
   </div>
   <div class="column_50">
     <img src="/pages/images/Personal art/architecture_2.JPG" alt="Architecture_2" style="width:100%">
