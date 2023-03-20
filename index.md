@@ -15,6 +15,6 @@ I'm an aspring physicist from New York City and currently a Fulbright researcher
 
 I graduated in May 2022 with a BS in Physics and Specialization in Optics from Stony Brook University. I will be attending the Physics PhD program at CU Boulder in 2023.
 
-I am interested in everything Atomic/Molecular/Optical physics, particularly spectroscopy, microscopy, spatial light modulators, and holography.
+I am interested in everything Atomic/Molecular/Optical physics, particularly spectroscopy, ultracold atoms, microscopy, and spatial light modulators.
 
 ![Sleep at desk](/pages/images/Sleep_At_Desk.png){: .center style="float: center" width="70%" }
