@@ -18,12 +18,6 @@ I became particularly interested in the optical pumping experiment of my senior 
 
 I noticed a strange deformation of the microwave transition lineshape at high Rb density, and worked extensively to identify the cause. I am still trying to figure this one out.
 
-# NMR senior lab
-
-Here is another experiment from my senior lab class, written together with my good friend and lab partner Anthony Del Valle.
-
-[Spin Relaxation Rates for Mineral Oil and Rubber in Pulsed Nuclear Magnetic Resonance](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/Physics/Frankel_NMR_Final_Lab_Report.pdf)
-
 # Ultracold Quantum Systems Group
 
 At Stony Brook University, I worked in Professor Dominik Schneble's Ultracold Quantum Systems group, which performs experiments in quantum simulation with Bose Einstein Condensates of Rubidium. The group loads the condensates into optical lattices formed by counter-propagating beams. 
