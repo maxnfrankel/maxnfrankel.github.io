@@ -10,18 +10,18 @@ permalink: /Stony_Brook
 
 <div class="row">
   <div class="column1">
-    <img src="/pages/images/Art&Science in Stockholm/Optical%20pumping%20setup.JPG" alt="Optical pumping setup" style="width:100%">
+    <img src="/pages/StonyBrook/Optical%20pumping%20setup.JPG" alt="Optical pumping setup" style="width:70%">
   </div>
   <div class="column2">
-    <img src="/pages/images/Art&Science in Stockholm/BothSplittingVsHighBField.png" alt="High magnetic field lineshape splitting" style="height:100%">
+    <img src="/pages/StonyBrook/BothSplittingVsHighBField.png" alt="High magnetic field lineshape splitting" style="width100%">
   </div>
 </div>
 
-I became particularly interested in the optical pumping experiment of my senior laboratory class. The experiment became the focus of my honors thesis.
+I became particularly interested in the optical pumping experiment of my senior laboratory class. The experiment became the focus of my honors thesis as I continued working on the project after we had moved on to the next experiment in class.
 
 [Optical Pumping: Exciting optical and RF transitions simultaneously to perform spectroscopy on the hyperfine splitting of the ground state of Rubidium](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/StonyBrook/Optical_Pumping.pdf)
 
-I noticed a strange deformation of the microwave transition lineshape at high Rb density, and worked extensively to identify the cause. I am still trying to figure this one out.
+I noticed a strange deformation of the microwave transition lineshape at high Rb density, and worked to identify the cause. I am still trying to figure this one out.
 
 ![Rb85 splitting at high temp](/pages/StonyBrook/Rb85HighDensitySplitting.png){: .center style="float: none" width="50%" }
 
