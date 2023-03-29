@@ -18,33 +18,35 @@ Fiorello H. LaGuardia High School of Music & Art | New York, NY
 :---|---:
 Major in visual art <br> GPA: 4.00 | Sep 2014 - May 2018
 
+# Research Experience
+
+Advanced Optical BioImaging Lab (SciLifeLab / Royal Institute of Technology) | Stockholm, Sweden
+:---|---:
+Supervisor: Professor Ilaria Testa <br> Working with a spatial light modulator to create holographic optical focus arrays. The focus array is being implemented in a RESOLFT microscopy setup, used to study live neurons and other cells. | Sep 2022 - May 2023
+As a community engagement project, initiated the program “Scientific Research Through an Artist’s Lens,” connecting 16 artists from the Royal Institute of Art with 33 researchers at SciLifeLab in Stockholm, with an exhibition planned at SciLifeLab for April 25th, 2023. | 
+
+Ultracold Quantum Systems Group (Stony Brook University) | Stony Brook, NY
+:---|---:
+Mentors: Professor D. Schneble, Dr. M.G. Cohen <br> Designed a system to engineer optical traps for ultracold atoms in a Bose-Einstein condensate. Experimented with holography with a digital micromirror device. | Aug 2020 - Aug 2022
+Additionally, investigated the lineshape of transitions between the magnetic sublevels of the ground state of Rubidium with Prof. Schneble’s guidance, in a double-resonance (optical pumping) setup, not part of Prof. Schneble’s experimental apparatus. |
+
 # Honors & Scholarships
 
 Fulbright Research Award Sweden (Fulbright U.S. Student Program) | Sep 2022 - May 2023
 :---|---:
-1 of 13 post-bachelor students selected for 9 months of funded study at the pre- and graduate levels and/or conduct independent research in Sweden. | 
-
-Sigma Pi Sigma Inductee (American Institute of Physics) | Apr 2021
-:---|---:
-Membership is awarded each year to selected physics students at Stony Brook University|
+1 of 13 selected for 9 months of funded independent research or study in Sweden. Awarded the Roth-Thomson award by the Lois Roth Foundation to support the community engagement project “Scientific Research Through an Artist’s Lens.” | 
 
 Outstanding Scholastic Achievement Award (Swiss Benevolent Society of New York) | Aug 2021 - May 2022
 :---|---:
 Award granted to a college senior or graduate student who demonstrates sustained academic excellence (cumulative GPA of at least 3.8) in a demanding study program | 
 
+Sigma Pi Sigma Inductee (American Institute of Physics) | Apr 2021
+:---|---:
+Membership is awarded each year to selected physics students at Stony Brook University|
+
 Academic Achievement Award (Stony Brook University) | Spring 2019, Fall 2019, Spring 2020, Fall 2020, Fall 2021
 :---|---:
 Awarded to students who achieve a 4.00 GPA for an academic semester |
-
-# Research Experience
-
-Advanced Optical BioImaging Lab (SciLifeLab / Royal Institute of Technology) | Stockholm, Sweden
-:---|---:
-Supervisor: Professor Ilaria Testa <br> Working with a phase spatial light modulator to create optical focus arrays through holography. The focus array is to be implemented in one of the group's fluorescent microscopy setups, used to study live neurons and other cells. Studying hologram generation algorithms and diffraction simulation in Python. | Sep 2022 - May 2023
-
-Ultracold Quantum Systems Group (Stony Brook University) | Stony Brook, NY
-:---|---:
-Mentors: Professor D. Schneble, Dr. M.G. Cohen <br> Designed, built, and tested an optical system to create engineered optical trapping potentials for ultracold atoms in a Bose-Einstein condensate. Experimented in holography with a digital micromirror device | Aug 2020 - Aug 2022
 
 # Presentations
 
@@ -72,11 +74,11 @@ Soccer and volleyball referee | Apr 2019 - Sep 2019
 
 RC Flying Club (Stony Brook University) | Aug 2019 - Aug 2021
 :---|---:
-President, held fly meets at Stony Brook’s R\&D Park where members fly their aircraft, organized an activity in SBU’s STEM Craft Night 2020 |
+As president, held fly meets at Stony Brook’s R&D Park where members flew their aircraft. Organized an activity in SBU’s STEM Craft Night 2020. |
 
 American Institute of Aeronautics and Astronautics, SBU Chapter (Stony Brook University) | Sep 2019 - Jul 2020
 :---|---:
-Leader of the testing subteam and chose aircraft electronics for SBU’s chapter of the American Institute Aeronautics and Astronautics which took part in the national Design/Build/Fly competition. Qualified for the competition and placed 61/101 |
+Leader of the testing subteam and selected electronics for the national Design/Build/Fly competition aircraft. Qualified for the competition and placed 61/101. |
 
 
 # Memberships
@@ -93,9 +95,11 @@ Society of Physics Students (American Insitute of Physics, SBU chapter) | Sep 20
 :---|---:
 Participated in the club's membership program as a mentor from Nov 2021 to May 2022 | 
 
+# Skills
+
 Programming | 
 :---|---:
-Python, Mathematica, LaTeX, Matlab, FORTRAN, C++ | 
+Python, Mathematica, Matlab, and LaTeX| 
 
 Languages | 
 :---|---:
