@@ -8,7 +8,7 @@ permalink: /CV/
 
 University of Colorado, Boulder |  Boulder, CO
 :---|---:
-Accepted to the physics PhD program | Jan 2022
+PhD Physics | July 2023 - Present
 
 State University of New York, Stony Brook | Stony Brook, NY
 :---|---:

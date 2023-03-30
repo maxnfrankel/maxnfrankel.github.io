@@ -6,15 +6,17 @@ permalink: /Art_and_science_in_Stockholm
 
 ### Scientific research through an artist’s lens: A collaboration between Stockholm's SciLifeLab and the Royal Institute of Art
 
+In Sweden, I have initiated a program for inspirational exchange between 16 artists at KKH and 32 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. The program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
+
+[News article on SciLifeLab webiste](https://www.scilifelab.se/news/scientific-research-through-an-artists-lens/)
+
 ![Group photo](/pages/images/Art&Science in Stockholm/GroupPhoto.jpg){: .center style="float: none" width="60%" }
 
 <center>
 Group photo from the introduction event
 </center>
 
-[News article on SciLifeLab webiste](https://www.scilifelab.se/news/scientific-research-through-an-artists-lens/)
-
-This program is meant to be an inspirational exchange between 16 artists at KKH and 32 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. This program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
+In the program, researchers and artists participate in three events. The first event occurred on February 6th, 2023, and was meant to introduce the scientists and artists, with quick pitch-presentations by everyone on their work and interests. The second event is a tour of the researchers’ workspaces, guided by each researcher and given to a small group of artists. These tours are currently ongoing. If there is mutual interest between a scientist and artist after the lab tours, a collaborative project can be set up on their own terms. The resulting work will be featured in an exhibition at SciLifeLab at the end of April, which is the last event.
 
 <div class="row">
   <div class="column1">
@@ -28,8 +30,6 @@ This program is meant to be an inspirational exchange between 16 artists at KKH 
 <center>
 Artists and researchers present at the introduction event.
 </center>
-
-In the program, researchers and artists participate in three events. The first event occurred on February 6th, 2023, and was meant to introduce the scientists and artists, with quick pitch-presentations by everyone on their work and interests. The second event is a tour of the researchers’ workspaces, guided by each researcher and given to a small group of artists. These tours are currently ongoing. If there is mutual interest between a scientist and artist after the lab tours, a collaborative project can be set up on their own terms. The resulting work will be featured in an exhibition at SciLifeLab at the end of April, which is the last event.
 
 This program is a unique opportunity for outreach at the SciLifeLab. It creates a dialog with artists, lets scientists see how their work and ideas can be visualized, and may lead to increased visibility of their research. For the artists, this program will allow collaboration with leading scientists, giving them the chance to gain inspiring insight at the forefront of research in the life sciences. This program is intended as a pilot, with the goal of being continued in the future, beyond this academic semester, creating compelling and bonding connections between the artistic and scientific communities in Stockholm.
 
@@ -59,4 +59,4 @@ Flyer created by Sophia Marret.
 
 We ended up getting 32 researchers applicants to the program, much more than we expected. Instead of selecting 10 researchers from the applicants, we decided to restructure the program to accomodate for everyone. Due to the large number of researchers, the art professors decided to accept all 15 of the artist applicants as well.
 
-I assigned each artist to two labs based off of a ranked selection made by the artist and scheduled lab tours in the week following the first meeting. These tours are currently underway. We hope that these visits will spark collaborations, and we plan to have an exhibition of the artwork created on April 25th.
+I assigned each artist to two labs based off of a ranked selection made by the artist and scheduled lab tours in the weeks following the first meeting. We hope that these visits will spark collaborations, and plan to have an exhibition of the artwork created on April 25th.
