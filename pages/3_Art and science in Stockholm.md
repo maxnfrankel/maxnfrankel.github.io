@@ -57,6 +57,31 @@ On my end, I recruited scientists with the help of the external relations office
 Flyer created by Sophia Marret.
 </center>
 
-We ended up getting 32 researchers applicants to the program, much more than we expected. Instead of selecting 10 researchers from the applicants, we decided to restructure the program to accomodate for everyone. Due to the large number of researchers, the art professors decided to accept all 15 of the artist applicants as well.
+We ended up getting 32 researchers applicants to the program, much more than we expected. Instead of selecting 10 researchers from the applicants, we decided to restructure the program to accommodate for everyone. Due to the large number of researchers, the art professors decided to accept all 15 of the artist applicants as well.
 
-I assigned each artist to two labs based off of a ranked selection made by the artist and scheduled lab tours in the weeks following the first meeting. We hope that these visits will spark collaborations, and plan to have an exhibition of the artwork created on April 25th.
+I assigned each artist to two labs based off of a ranked selection made by the artist and scheduled lab tours in the weeks following the first meeting. 
+
+From April 25th - May 5th, we had an exhibition of artists' work in the lobby of SciLifeLab.
+
+[ExhibitionBooklet](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf)
+
+![Lobby1](/pages/images/Art&Science in Stockholm/Lobby1.png){: .center style="float: center" width="70%" }
+<center>
+Artists setting up in the SciLifeLab lobby
+</center>
+
+![Lobby3](/pages/images/Art&Science in Stockholm/Lobby3.png){: .center style="float: center" width="70%" }
+
+![KatarinaAndLinnea](/pages/images/Art&Science in Stockholm/KatarinaAndLinnea.png){: .center style="float: center" width="70%" }
+
+![Table1](/pages/images/Art&Science in Stockholm/Table1.png){: .center style="float: center" width="70%" }
+
+![FalconTubes](/pages/images/Art&Science in Stockholm/FalconTubes.png){: .center style="float: center" width="70%" }
+
+![Lobby2](/pages/images/Art&Science in Stockholm/Lobby2.png){: .center style="float: center" width="70%" }
+
+![AxelAndJesper](/pages/images/Art&Science in Stockholm/AxelAndJesper.png){: .center style="float: center" width="70%" }
+
+![Kanae](/pages/images/Art&Science in Stockholm/Kanae.png){: .center style="float: center" width="70%" }
+
+![Tove](/pages/images/Art&Science in Stockholm/Tove.png){: .center style="float: center" width="70%" }
