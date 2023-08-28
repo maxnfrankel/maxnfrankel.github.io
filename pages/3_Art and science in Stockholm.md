@@ -4,6 +4,10 @@ title: Art & science in Stockholm
 permalink: /Art_and_science_in_Stockholm
 ---
 
+[Exhibition Booklet](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf), designed by Sophia Marret.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7057286011793326081" height="738" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### Scientific research through an artist’s lens: A collaboration between Stockholm's SciLifeLab and the Royal Institute of Art
 
 In Sweden, I have initiated a program for inspirational exchange between 16 artists at KKH and 32 researchers at SciLifeLab. Half of the artists are post-master’s students who are already practicing artists, and half are program students at KKH. The program connects the art and science communities in Stockholm with the aim of creating an opportunity for creative collaboration.
@@ -62,8 +66,6 @@ We ended up getting 32 researchers applicants to the program, much more than we 
 I assigned each artist to two labs based off of a ranked selection made by the artist and scheduled lab tours in the weeks following the first meeting. 
 
 From April 25th - May 5th, we had an exhibition of artists' work in the lobby of SciLifeLab.
-
-[ExhibitionBooklet](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf)
 
 ![Lobby1](/pages/images/Art&Science in Stockholm/Lobby1.png){: .center style="float: center" width="70%" }
 <center>
