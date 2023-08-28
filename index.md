@@ -9,7 +9,7 @@ title: About me
 <h1> Hi, I'm Max Frankel! </h1>
 
 
-![Profile picture](/pages/images/prof_pic.png){: .center style="float: right" width="25%"}
+![Profile picture](/pages/images/prof_pic.jpg){: .center style="float: right" width="25%"}
 
 I'm an aspiring physicist from New York City and currently a PhD student at CU Boulder. 
 
