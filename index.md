@@ -23,6 +23,14 @@ For the 2022-2023 academic year, I worked in Professor Ilaria Testa’s [Optical
 
 After my year in Sweden, I began my PhD at CU Boulder in [Jun Ye's group](https://jila.colorado.edu/yelabs) at JILA. I'm working on Sr2, one of the three Strontium atomic clock project in Ye's group.
 
-![Flatiron](pages/images/Flatiron.png){: .center style="float: left" width="25%"}
-![Wburg bridge](pages/images/WburgBridge.JPG){: .center style="float: center" width="25%"}
-![Sleep at desk](/pages/images/Sleep_At_Desk.png){: .center style="float: right" width="40%"}
+<div class="row">
+  <div class="column_30">
+    <img src="pages/images/Flatiron.png" alt="Flatiron" style="width:100%">
+  </div>
+  <div class="column_30">
+    <img src="/pages/images/Sleep_At_Desk.png" alt="Sleep" style="width:100%">
+  </div>
+  <div class="column_30">
+    <img src="pages/images/WburgBridge.JPG" alt="Wburg" style="width:100%">
+  </div>
+</div>

@@ -20,7 +20,7 @@ Highlights of my year included attending the Nobel Prize ceremony, presenting a 
   <div class="column_50">
     <img src="pages/FulbrightSweden/FB_004.JPG" alt="Cohort" style="width:100%">
   </div>
-  <div class="column_30">
+  <div class="column_50">
     <img src="pages/FulbrightSweden/Frankel.JPEG" alt="FulbrightPresi" style="width:100%">
   </div>
 </div>
