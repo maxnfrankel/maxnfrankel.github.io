@@ -11,7 +11,7 @@ title: About me
 
 ![Profile picture](/pages/images/prof_pic.jpg){: .center style="float: right" width="25%"}
 
-I'm an aspiring physicist from New York City and currently a PhD student at CU Boulder. 
+I'm an aspiring physicist from Brooklyn, NY and currently a PhD student at CU Boulder. 
 
 I am interested in everything Atomic/Molecular/Optical physics, particularly spectroscopy, ultracold atoms, microscopy, and spatial light modulators.
 
