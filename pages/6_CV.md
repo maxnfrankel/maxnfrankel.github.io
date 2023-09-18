@@ -37,7 +37,7 @@ Ultracold Quantum Systems Group (Stony Brook University) | Stony Brook, NY
 :---|---:
 Mentors: Professor D. Schneble, Dr. M.G. Cohen | Aug 2020 - Aug 2022 <img width=200/>
 Designed a system to engineer optical traps for ultracold atoms in a Bose-Einstein condensate. Experimented with holography with a digital micromirror device. |
-Additionally, investigated the lineshape of transitions between the magnetic sublevels of the ground state of Rubidium with Prof. Schneble’s guidance, in a double-resonance (optical pumping) setup, not part of Prof. Schneble’s experimental apparatus. |
+Additionally, investigated the lineshape of transitions between the magnetic sublevels of the ground state of Rubidium with Prof. Schneble’s guidance, in a double-resonance (optical pumping) setup. |
 
 # Honors & Scholarships
 
