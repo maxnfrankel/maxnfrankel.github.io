@@ -25,12 +25,10 @@ After my year in Sweden, I began my PhD at CU Boulder in [Jun Ye's group](https:
 
 <div class="row">
   <div class="column_30">
-    <img src="pages/images/Flatiron.png" alt="Flatiron" style="width:100%">
   </div>
   <div class="column_30">
     <img src="/pages/images/Sleep_At_Desk.png" alt="Sleep" style="width:100%">
   </div>
   <div class="column_30">
-    <img src="pages/images/WburgBridge.JPG" alt="Wburg" style="width:100%">
   </div>
 </div>
