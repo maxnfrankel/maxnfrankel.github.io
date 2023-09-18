@@ -25,7 +25,7 @@ Major in visual art | Sep 2014 - May 2018
 Ye Group (JILA / CU Boulder) | Boulder, CO
 :---|---:
 Supervisor: Jun Ye | Jul 2023 - Present <img width=200/>
-Working on a 3D optical lattice clock. Studying the interactions of a Fermi gas of strontium-87 atoms in an optical lattice and using these findings to extend the clock's coherence time, pushing the limits of atomic clock precision. | 
+Working on a 3D optical lattice clock project, pushing the limits of atomic clock precision and studying the many-body physics of a fermi-degenerate gas in an optical lattice. | 
 
 Advanced Optical BioImaging Lab (SciLifeLab / Royal Institute of Technology) | Stockholm, Sweden 
 :---|---:
