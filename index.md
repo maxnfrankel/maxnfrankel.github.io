@@ -21,7 +21,7 @@ I graduated in 2022 with a BS in physics and a specialization in optics from Sto
 
 For the 2022-2023 academic year, I worked in Professor Ilaria Testa’s [Optical BioImaging group](https://www.testalab.org/) in Stockholm, Sweden, on a Fulbright research scholarship.
 
-After my year in Sweden, I began my PhD at CU Boulder in [Jun Ye's group](https://jila.colorado.edu/yelabs) at JILA. I'm working on Sr2, one of the three Strontium atomic clock project in Ye's group.
+After my year in Sweden, I began my PhD at CU Boulder in [Jun Ye's group](https://jila.colorado.edu/yelabs) at JILA. I'm working on Sr2, one of the three Strontium atomic clock projects in Ye's group.
 
 <div class="row">
   <div class="column_30">
