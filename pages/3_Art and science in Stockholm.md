@@ -4,7 +4,7 @@ title: Art & science in Stockholm
 permalink: /Art_and_science_in_Stockholm
 ---
 
-[Exhibition Booklet](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf), designed by Sophia Marret.
+[Exhibition Booklet](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf), designed by Sophia Marret, contains writing from each artist about their artwork.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7057286011793326081" height="738" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
