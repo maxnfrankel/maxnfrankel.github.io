@@ -6,7 +6,7 @@ permalink: /Stony_Brook
 
 ## Undergraduate Research: Stony Brook University
 
-# Honors thesis
+# Senior thesis
 
 I became particularly interested in the optical pumping experiment of my senior laboratory class. The experiment became the focus of my honors thesis as I continued working on the project after we had moved on to the next experiment in class.
 
