@@ -2,8 +2,10 @@
 layout: default
 title: Home
 ---
+<center>
+  <a href="https://github.com/maxnfrankel/maxnfrankel.github.io/pages/CV_MaxFrankel3.pdf">CV</a>
+</center>
 
-[CV](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf)
 
 <div class="row">
   <div class="column_30">
