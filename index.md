@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[CV](https://github.com/maxnfrankel/maxnfrankel.github.io/raw/master/pages/ArtAndScienceInStockholm/bookletPRINTversionFinal.pdf)
+
 <div class="row">
   <div class="column_30">
   </div>
