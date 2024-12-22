@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <center>
-  <a href="https://github.com/maxnfrankel/maxnfrankel.github.io/pages/CV_MaxFrankel3.pdf">CV</a>
+  <a href="https://maxnfrankel.github.io/pages/CV_MaxFrankel3.pdf">CV</a>
 </center>
 
 
